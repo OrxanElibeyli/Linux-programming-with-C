@@ -5,7 +5,7 @@
  * For executing program you must compile as                               *
  * showed below:                                                           *
  *   -mkdir ~/myBin                                                        *
- *   -cd mkdir                                                             *
+ *   -cd ~/myBin                                                           *
  *   -gcc cp.c -o cp   (cp.c must be in this directory)                    *
  *   -export $PATH="$HOME/myBin:$PATH"   (adding our directory to PATH)    *
  *                                                                         *
